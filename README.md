@@ -92,12 +92,13 @@ ORDER BY total_profit DESC;
 
   ---
 
-  ## Key Insights
-  - Analysis revealed that certain renovation categories consistently exceeded       their budget estimates, contributing to recurring cost overruns across           projects.
-  - Cost overruns increased slightly in later quarters
-  - Roofing projects showed lower profit margins
-  - Some crew had higher project delay rates
-  - Profitability varied significantly across job types
+## Key Insights
+- Certain renovation types experienced recurring cost overruns, suggesting that    budgeting models may need refinement.
+- Project delays varied by crew, highlighting potential operational                inefficiencies in scheduling and resource allocation.
+- Revenue growth did not consistently translate to higher profit margins due to     cost variance and schedule delays.
+- Cost overruns increased slightly in later quarters.
+- Roofing projects showed lower profit margins.
+- Profitability varied significantly across job types.
  
     ---
  
