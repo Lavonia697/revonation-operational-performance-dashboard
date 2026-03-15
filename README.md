@@ -14,13 +14,10 @@ The goal is to identify operational inefficiencies and highlight opportunities t
 ---
 
 ## Business Problem
-As project volume increased, the company experienced:
 * Mild but recurring cost overruns
 * Project delays affecting delivery timeline
 * Profit margin variability across job types
 * Limited visibility into crew and subcontractor performance
-  
-*This analysis aims to provide actionable insights into operational efficiency and profitability trends*
 
 ---
 
@@ -47,6 +44,14 @@ As project volume increased, the company experienced:
 - Excel - initial dataset preparation
 
   ---
+
+## Analysis Performed
+- Cost Variance & Schedule Variance
+- Quarterly Profit Trend Analysis
+- Crew-Level Performance Evaluation
+- Job-Type Profitability Assessment
+- Subcontractor Delay Impact Analysis
+
 
 ## SQL Analysis
 Example queries used during analysis:
@@ -79,7 +84,6 @@ FROM jobs
 GROUP BY job_type
 ORDER BY total_profit DESC;
 ```
-
 ---
 
 ## Power BI Dashboard 
