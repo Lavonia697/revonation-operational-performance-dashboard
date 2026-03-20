@@ -13,6 +13,9 @@ The goal is to identify operational inefficiencies and highlight opportunities t
 
 ---
 
+## Dashboard Overview
+<img width="856" height="482" alt="Renovations Operational Performance Dashboard" src="https://github.com/user-attachments/assets/ff3bf013-c882-405c-b0cb-0853b5b2c808" />
+
 ## Business Problem
 * Mild but recurring cost overruns
 * Project delays affecting delivery timeline
