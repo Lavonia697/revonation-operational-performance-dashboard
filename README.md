@@ -91,11 +91,11 @@ ORDER BY total_profit DESC;
 
 ## Power BI Dashboard 
 ### Key Dashboard Features
-- Total Revenue and Profit KPIs
-- Cost Overrun Analysis
-- Profitability by Renovation Type
-- Project Delay Trends
-- Crew Performance Comparison
+- KPI cards summarizing financial performance
+- Variance analysis comparing budgeted and actual costs
+- Project delay analysis by crew
+- Crew performance heatmap highlighting delay patterns
+- Interactive filters for job type, crew, and quarter
 
   ---
 
