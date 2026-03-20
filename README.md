@@ -1,6 +1,6 @@
 # Revonation-Operational-Performance-Dashboard
-## Skills Demonstrated:
-SQL • Data Analysis • Power BI • KPI Development • Operational Analytics
+Operational analytics dashboard analyzing renovation project profitability,
+cost overruns, and scheduling performance.
 
 ---
 
