@@ -1,4 +1,4 @@
-# Revonation-Operational-Analytics-Dashboard
+# Revonation-Operational-Performance-Dashboard
 ## Skills Demonstrated:
 SQL • Data Analysis • Power BI • KPI Development • Operational Analytics
 
