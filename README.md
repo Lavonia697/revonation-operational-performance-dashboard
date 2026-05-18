@@ -28,8 +28,11 @@ Without centralized analytics, it becomes difficult to monitor:
   # Database Structure Section
   ## Relational Database Model ?????
 Fact_Jobs
-├── Fact_Labor
+
+├── Fact_Labor 
+
 ├── Fact_Materials
+
 └── Dim_Subcontractor
 
 ---
@@ -80,6 +83,8 @@ SQL analysis included:
 |Labor Cost        |Schedule performance tracking|
 |Material Waste    |Unused material quantity|
 |Revenue per Labor Hour |Workforce efficiency metric|
+|Revenue per FTE   |Revenue per standardized employee unit|
+|Scrap Rate       |Wasted, discarded, or usable raw materials|
 
 ---
 
